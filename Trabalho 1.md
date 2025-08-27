@@ -106,3 +106,4 @@ Validação da lógica do circuito com base nas equações simplificadas.
 
 ### **7. Print do Circuito no Logisim**
 
+<img width="712" height="504" alt="Trabalho logisim" src="https://github.com/user-attachments/assets/ac52038a-0772-478c-b80f-734d39513953" />
