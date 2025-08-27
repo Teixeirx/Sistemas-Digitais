@@ -106,8 +106,3 @@ Validação da lógica do circuito com base nas equações simplificadas.
 
 ### **7. Print do Circuito no Logisim**
 
-*(Insira aqui o print do seu circuito montado no Logisim, conforme a descrição na seção 5)*.
-
----
-> ### **📢 Lembrete**
-> Não se esqueça de preencher seu nome e a data, gerar o print do Logisim e entregar tanto o arquivo `.docx` preenchido quanto o arquivo `.circ` na plataforma Minha UFN.
