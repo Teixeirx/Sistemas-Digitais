@@ -1,1 +1,0 @@
--wto "afaf700ea06c4b2a9c575dde0f68969d" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_detector_seq_behav" "xil_defaultlib.tb_detector_seq" -log "elaborate.log" 

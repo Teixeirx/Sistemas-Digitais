@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_semaforo_behav/xsimk.exe -simmode gui -wdb tb_semaforo_behav.wdb -simrunnum 0 -socket 50865
-Design successfully loaded
-Design Loading Memory Usage: 25376 KB (Peak: 25376 KB)
-Design Loading CPU Usage: 203 ms
-Simulation completed
-Simulation Memory Usage: 25724 KB (Peak: 25724 KB)
-Simulation CPU Usage: 203 ms
