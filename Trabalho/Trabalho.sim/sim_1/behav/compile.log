@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/laboratorio/Trabalho/Trabalho.srcs/sources_1/new/somador_2bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity somador_2bits
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/laboratorio/Trabalho/Trabalho.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity testbench
